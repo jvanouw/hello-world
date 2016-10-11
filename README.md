@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi - Jeff
+
+Playing around with github while taking a class.
+
